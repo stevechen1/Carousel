@@ -155,5 +155,5 @@ git push origin --tags
 ```
 你要发布新版本，就做一个新的tag。
 
-参考： <a style="text-decoration: none" href="https://learn.jquery.com/plugins/basic-plugin-creation/">jQuery官方教程</a>
+参考： <a style="text-decoration: none" href="https://learn.jquery.com/plugins/basic-plugin-creation/">jQuery官方教程</a><br>
 <a style="text-decoration: none" href="https://javascript.ruanyifeng.com/jquery/plugin.html">阮一峰教程</a>
