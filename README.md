@@ -1,5 +1,5 @@
 # 轮播的实现
-keyWord: width/absolute/count/count
+keyWord: width/absolute/count
 # jQuery插件的实现
 ## 原理
 本质上，jQuery插件是定义在jQuery构造函数的prototype对象上面的一个方法，这样做就能使得所有jQuery对象的实例都能`共享`这个方法。因为jQuery构造函数的prototype对象被简写成`jQuery.fn`对象，所以插件采用下面的方法定义。
